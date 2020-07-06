@@ -1,0 +1,4 @@
+com\gbf\auth\filter\integration\JWTAuthenticationFilter.class
+com\gbf\auth\filter\integration\PublicKeyDto.class
+com\gbf\auth\filter\integration\JWTService.class
+com\gbf\auth\filter\integration\AuthorisationData.class
